@@ -1,0 +1,13 @@
+# Figma 源文件链接
+
+请把你的 Figma 文件链接粘贴到下面：
+
+```text
+https://www.figma.com/design/Faews3kKEdn4jEcc3Khuy1/AI%E5%B0%9D%E8%AF%95%E5%A4%8D%E5%8E%9F2?node-id=0-1&t=np9e0r6O39f7Pjns-1
+```
+
+## 使用说明
+
+1. 如果是团队文件，请确保 AI / 开发 / 协作者有访问权限。
+2. 如果暂时没有 Figma 链接，可以先使用 `references/original-screenshot.png` 作为视觉参考。
+3. 如果后续 Figma 文件有更新，请在这里同步替换链接。
